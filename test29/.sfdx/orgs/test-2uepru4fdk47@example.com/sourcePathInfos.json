@@ -1,0 +1,316 @@
+[
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155212,
+            "changeTime": 1540883155212,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29",
+        {
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540810544750,
+            "changeTime": 1540810544750,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\AOO_Order__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\AOO_Order__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2020,
+            "modifiedTime": 1540883155218,
+            "changeTime": 1540883155218,
+            "contentHash": "3795fc8bc9b9a304a96f6620f75017c16d138046"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1540883155222,
+            "changeTime": 1540883155222,
+            "contentHash": "f01efb86d85bb77e389dda26f732a298949a4354"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540883155226,
+            "changeTime": 1540883155226,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\layouts\\AOO_Order__c-AOO Order Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\layouts\\AOO_Order__c-AOO Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2083,
+            "modifiedTime": 1540883155232,
+            "changeTime": 1540883155232,
+            "contentHash": "d9fcd89687392295223848680c33879ca077a003"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\tabs\\AOO_Order__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\tabs\\AOO_Order__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1540883155235,
+            "changeTime": 1540883155235,
+            "contentHash": "9b139f7ffd1bf10acd2b1e0bde0bb2e89d82b4d0"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\applications\\AOO.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\applications\\AOO.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1540883155237,
+            "changeTime": 1540883155237,
+            "contentHash": "7e39f4f22a577738ed32289c02f35e8b9f231f7a"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4756,
+            "modifiedTime": 1540883155241,
+            "changeTime": 1540883155241,
+            "contentHash": "dbfd1aac7ef3c383fdc54c7d2493215dbe0e7204"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4756,
+            "modifiedTime": 1540883155249,
+            "changeTime": 1540883155249,
+            "contentHash": "dbfd1aac7ef3c383fdc54c7d2493215dbe0e7204"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18627,
+            "modifiedTime": 1540883155264,
+            "changeTime": 1540883155264,
+            "contentHash": "2b3aedc64a4badca2771e8ad105dc100a9af63b7"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5094,
+            "modifiedTime": 1540883155268,
+            "changeTime": 1540883155268,
+            "contentHash": "bef81c612382ec192633216cb4ac7ae752128ea6"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets\\AOO_User.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets\\AOO_User.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1540883155271,
+            "changeTime": 1540883155271,
+            "contentHash": "a6fda6caeb67a972e8fff5344a3c09ad793cccb3"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155223,
+            "changeTime": 1540883155223,
+            "contentHash": "e458cb4e233baf0136a237112abc6619929ea89e"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155213,
+            "changeTime": 1540883155213,
+            "contentHash": "8ae6301376b0948c07eca2eed31e737775da8807"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155270,
+            "changeTime": 1540883155270,
+            "contentHash": "56ca6d1973e4ffa3f6ec1e06a1de0df215297b9d"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155213,
+            "changeTime": 1540883155213,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155219,
+            "changeTime": 1540883155219,
+            "contentHash": "278a8c0408e4e71d0f0e3b3395b803b5d1bd3d60"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155223,
+            "changeTime": 1540883155223,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155231,
+            "changeTime": 1540883155231,
+            "contentHash": "f81fb0da97936eea71436ca6487fadc2d94f3f34"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155234,
+            "changeTime": 1540883155234,
+            "contentHash": "472f56af67dda059ea4fc560a07172f2f9a1e611"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155236,
+            "changeTime": 1540883155236,
+            "contentHash": "2906baca299edb0024d1121bf888ece2452e1f1d"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155267,
+            "changeTime": 1540883155267,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SFDX-Apps\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540883155270,
+            "changeTime": 1540883155270,
+            "contentHash": "ad85affa8b783b3a80b23078200864b3b305dd4e"
+        }
+    ]
+]
