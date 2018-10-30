@@ -13,6 +13,7 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>AOO_Order__c-AOO Order Layout</layout>
+
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
