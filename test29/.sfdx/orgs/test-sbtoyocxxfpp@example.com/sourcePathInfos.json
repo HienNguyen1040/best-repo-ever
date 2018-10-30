@@ -1,0 +1,489 @@
+[
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540797919733,
+            "changeTime": 1540797919733,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540797919733,
+            "changeTime": 1540797919733,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540896450366,
+            "changeTime": 1540896450366,
+            "contentHash": "274ffe5bc5f1a7faa4e7d02183168e18808b3ad3"
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359523,
+            "changeTime": 1540886359523,
+            "contentHash": "2906baca299edb0024d1121bf888ece2452e1f1d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\applications\\AOO.app-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\applications\\AOO.app-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1540886359523,
+            "changeTime": 1540886359523,
+            "contentHash": "3f0f6e3bbad7467289b40fb7c18ea5b8b03878b9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540797919733,
+            "changeTime": 1540797919733,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359531,
+            "changeTime": 1540886359531,
+            "contentHash": "4e9607dbdab56bd0c48db89f60dcf4f2962268bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\layouts\\AOO_Order__c-AOO Order Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\layouts\\AOO_Order__c-AOO Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2142,
+            "modifiedTime": 1540886359530,
+            "changeTime": 1540886359530,
+            "contentHash": "6f0c473b9d939f43223ea5b78ecb908515c6f491",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\layouts\\Order__c-Order Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\layouts\\Order__c-Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2142,
+            "modifiedTime": 1540886359531,
+            "changeTime": 1540886359531,
+            "contentHash": "6f0c473b9d939f43223ea5b78ecb908515c6f491",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359550,
+            "changeTime": 1540886359550,
+            "contentHash": "f7fc7a1278fc5ab6cc292b84318056414703fbd7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359545,
+            "changeTime": 1540886359545,
+            "contentHash": "e458cb4e233baf0136a237112abc6619929ea89e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\AOO_Order__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\AOO_Order__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2083,
+            "modifiedTime": 1540886359537,
+            "changeTime": 1540886359537,
+            "contentHash": "ce4a5d69ce353e069115023589195142ed2d2dd0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359544,
+            "changeTime": 1540886359544,
+            "contentHash": "278a8c0408e4e71d0f0e3b3395b803b5d1bd3d60",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1540886359545,
+            "changeTime": 1540886359545,
+            "contentHash": "ff9c78546c1b43518828ab8560aa8ff500e9899e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359549,
+            "changeTime": 1540886359549,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\AOO_Order__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1540886359549,
+            "changeTime": 1540886359549,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359554,
+            "changeTime": 1540886359554,
+            "contentHash": "e375c35e6309efa761f6e4d5116721c598a7c0a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c\\fields",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359554,
+            "changeTime": 1540886359554,
+            "contentHash": "278a8c0408e4e71d0f0e3b3395b803b5d1bd3d60",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1540886359554,
+            "changeTime": 1540886359554,
+            "contentHash": "ff9c78546c1b43518828ab8560aa8ff500e9899e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c\\Order__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\objects\\Order__c\\Order__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2072,
+            "modifiedTime": 1540886359554,
+            "changeTime": 1540886359554,
+            "contentHash": "dd50a49394726005fca046e178046eebba894100",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359559,
+            "changeTime": 1540886359559,
+            "contentHash": "ad85affa8b783b3a80b23078200864b3b305dd4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets\\AOO_User.permissionset-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\permissionsets\\AOO_User.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1540886359560,
+            "changeTime": 1540886359560,
+            "contentHash": "c5c4d1884e458b85ba15867f7e752180e88364c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359567,
+            "changeTime": 1540886359567,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19260,
+            "modifiedTime": 1540886359561,
+            "changeTime": 1540886359561,
+            "contentHash": "a505a6023fdea5929ac3cb552850a6efb9da8752",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4918,
+            "modifiedTime": 1540886359565,
+            "changeTime": 1540886359565,
+            "contentHash": "f7ad9e4f6b4006bd4d51639257d2fc705fc77996",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4918,
+            "modifiedTime": 1540886359566,
+            "changeTime": 1540886359566,
+            "contentHash": "f7ad9e4f6b4006bd4d51639257d2fc705fc77996",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5268,
+            "modifiedTime": 1540886359567,
+            "changeTime": 1540886359567,
+            "contentHash": "f517cdd55f0f46d4c0d6228cd3fabefec2f3957c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359571,
+            "changeTime": 1540886359571,
+            "contentHash": "472f56af67dda059ea4fc560a07172f2f9a1e611",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\tabs\\AOO_Order__c.tab-meta.xml",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\tabs\\AOO_Order__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1540886359571,
+            "changeTime": 1540886359571,
+            "contentHash": "5fa667c0a066537dbc3c43b4025e03644590fd1c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29",
+        {
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540886359264,
+            "changeTime": 1540886359264,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\classes\\Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540896450369,
+            "changeTime": 1540896450369,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\classes\\Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\classes\\Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33,
+            "modifiedTime": 1540896450372,
+            "changeTime": 1540896450372,
+            "contentHash": "007117ccd92fd9267cd1cc1d7e5bf3ba43281bea"
+        }
+    ],
+    [
+        "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Training\\TestGit\\best-repo-ever\\test29\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540896450370,
+            "changeTime": 1540896450370,
+            "contentHash": "acca1d2a46beb2ef5dd32ac3628a02ec86a5443c"
+        }
+    ]
+]
